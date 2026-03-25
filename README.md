@@ -4,15 +4,15 @@ FOX is a modern productivity web app designed to help users build discipline, st
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
-🚀 https://fox-app.vercel.app *(update if your URL changes)*
+ https://fox-app-flame.vercel.app/
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🧠 Productivity Dashboard
+###  Productivity Dashboard
 
 * Clean, minimal UI for deep focus
 * Real-time stats: streak, focus time, tasks
@@ -23,34 +23,34 @@ FOX is a modern productivity web app designed to help users build discipline, st
 * Tracks focus sessions
 * Stores focus time locally
 
-### ✅ Task Manager (Connected to Database)
+###  Task Manager (Connected to Database)
 
 * Add / delete / complete tasks
 * Tasks persist using Supabase
 * User-specific data (secure)
 
-### 🔥 Streak System
+###  Streak System
 
 * Tracks consistency
 * Encourages daily usage
 
-### 🧾 Daily Reflection
+###  Daily Reflection
 
 * Write daily thoughts
 * Builds self-awareness habit
 
-### 🧠 Second Brain
+###  Second Brain
 
 * Save ideas, notes, and learning
 * Stored locally (expandable to DB)
 
-### 💬 Quote of the Day
+###  Quote of the Day
 
 * Dynamic motivational quotes
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 * Email + Password login/signup
 * Supabase Authentication
@@ -58,7 +58,7 @@ FOX is a modern productivity web app designed to help users build discipline, st
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Frontend:** Next.js (App Router), React, Tailwind CSS
 * **Backend:** Supabase (Auth + Database)
@@ -67,7 +67,7 @@ FOX is a modern productivity web app designed to help users build discipline, st
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 fox-app/
@@ -92,7 +92,7 @@ fox-app/
 
 ---
 
-## ⚙️ Environment Variables
+##  Environment Variables
 
 Create a `.env.local` file:
 
@@ -103,7 +103,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_publishable_key
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 
@@ -132,7 +132,7 @@ http://localhost:3000
 
 ---
 
-## 🔒 Database (Supabase)
+##  Database (Supabase)
 
 ### Table: `tasks`
 
@@ -151,31 +151,31 @@ http://localhost:3000
 
 ---
 
-## 🚧 Future Improvements
+##  Future Improvements
 
-* 📊 Analytics dashboard (charts & insights)
-* ☁️ Save focus timer to database
-* 🔍 Search & tagging in Second Brain
-* 📱 Mobile responsiveness improvements
-* 👥 Community features (shared thoughts)
-* 💰 Monetization (premium features)
+*  Analytics dashboard (charts & insights)
+*  Save focus timer to database
+*  Search & tagging in Second Brain
+*  Mobile responsiveness improvements
+*  Community features (shared thoughts)
+*  Monetization (premium features)
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 Feel free to fork the repo and submit a PR.
 
 ---
 
-## 📄 License
+##  License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available 
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Unnath**
 
@@ -183,7 +183,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 💡 Vision
+##  Vision
 
 FOX is built to be more than a productivity tool —
 it’s a **daily system for building discipline and clarity**.
